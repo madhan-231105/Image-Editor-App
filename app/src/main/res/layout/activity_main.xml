@@ -66,7 +66,7 @@
                 android:id="@+id/subOptionsLayout"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
+       w         android:orientation="horizontal"
                 android:paddingHorizontal="16dp" />
         </HorizontalScrollView>
 
